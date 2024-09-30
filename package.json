@@ -1,0 +1,11 @@
+{
+  "name": "quasar_gemini",
+  "version": "1.0.0",
+  "description": "Upload PDF file in Quasar Frontend and Send Gemini Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
